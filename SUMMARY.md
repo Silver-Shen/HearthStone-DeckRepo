@@ -1,4 +1,7 @@
 # Summary
 
-\*[前言](README.md)
+* [Introduction](README.md)
+* [竞技场12胜卡组归档](竞技场/JJC.md)
+
+
 
