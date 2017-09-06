@@ -21,3 +21,12 @@
 ![mage_7_27_1](mage_7_27_1.png)
 
 ![mage_7_27_2](mage_7_27_2.png)
+
+------
+
+### 9月4日 圣骑士
+
+![paladin_9_4_1](paladin_9_4_1.png)
+
+![paladin_9_4_2](paladin_9_4_2.png)
+
