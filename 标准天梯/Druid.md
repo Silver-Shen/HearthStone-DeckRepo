@@ -23,3 +23,16 @@
 
   AAECAZICCOkB8gX4DK6rApS9AsnHAqDNAqbOAgtAX/4BxAbkCL6rArS7Asu8As+8At2+AofOAgA=
 
+
+  ++++++++++++++++更新分割线++++++++++++++++++++
+
+  版本：冰封王座（后期）
+
+  卡组详情：
+
+![jade_druid_ice_post](screenshot/jade_druid_ice_post.png)
+
+​	卡组代码：
+
+​	AAECAZICCIoB3gXyBa6rAs27ApS9At/EApnTAgtAX8QG5Ai+rgK0uwLLvALPvALdvgKgzQKHzgIA
+
