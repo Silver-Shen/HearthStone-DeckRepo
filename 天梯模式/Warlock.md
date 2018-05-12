@@ -1,0 +1,51 @@
+# 天梯模式术士卡组
+
+- 宇宙术
+
+  版本：加基森（狂野）
+
+  卡组详情：
+
+  ![Reino_warlock1](screenshot/Reino_warlock1.png)
+
+  ![Reino_warlock2](screenshot/Reino_warlock2.png)
+
+  卡组代码：
+
+  AAEBAf0GHooBkwGTBK8EiQbOBtsGtgfhB40IxAjMCPMMuQ2BDt0P9Q+eEK0Q1hH9EcMWzxaFF6mtAti7At28Av2/At7EAt/EAgAA
+
+- 动物园
+
+  版本：冰封王座（狂野）
+
+  卡组详情：
+
+  ![zoo_warlock](screenshot/zoo_warlock.png)
+
+  卡组代码：
+
+  AAECAf0GBsm7ApG8ApvLAsrLApfTApziAgww9wSoBc4Hwgi0rAK8tgLHuwLrwgL3zQKVzgKmzgIA
+
+  ++++++++++++更新分割线++++++++++++
+
+  版本：狗头人（狂野）
+
+  卡组详情：
+
+  ![zoo_warlock_kobold](screenshot/zoo_warlock_kobold.png)
+
+  卡组代码：
+
+  AAEBAcn1AgTyBcQIl9MCnOICDTDVA/cEzgfCCLSsAry2Ase7Asm7ApvLAvfNAvLQAtHhAgA=
+
+- 魔块术
+
+  版本：狗头人（狂野）
+
+  卡组详情：
+
+  ![meat_warlock_kobold](screenshot/meat_warlock_kobold.png)
+
+  卡组代码：
+
+  AAEBAcn1AgiKAZMEigfECOCsAsrDApfTAtvpAgv3BPIFtgfexALnywLy0AL40AKI0gKL4QL85QLo5wIA

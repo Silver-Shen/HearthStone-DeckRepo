@@ -1,8 +1,32 @@
-# 标准模式战士卡组
+# 天梯模式战士卡组
+
+- 海盗战
+
+  版本：安戈洛（狂野）
+
+  卡组详情：
+
+  ![pirate_warrior](screenshot/pirate_warrior.png)
+
+  卡组代码：
+
+  AAEBAQcErwSKB4QXkbwCDRywApED/wOOBagF1AWkBu4G5wf7D4KwAoiwAgA=
+
+- 防战
+
+  版本：安戈洛
+
+  卡组详情：
+
+  ![defense_warrior](screenshot/defense_warrior.png)
+
+  卡组代码：
+
+  AAEBAQcK0gKqBvgRsBWHF+msAsbDAsrDAt/EAs/HAgpLkQOiBJEG/weyCPsMqRWCrQL+vAIA
 
 - 任务战
 
-  版本：安戈洛
+  版本：安戈洛（狂野）
 
   卡组详情：
 
@@ -14,7 +38,7 @@
 
   ++++++++++++++更新分割线++++++++++++++
 
-  版本：冰封王座
+  版本：冰封王座（狂野）
 
   卡组详情：
 
@@ -24,9 +48,9 @@
 
   AAECAQcIkAOyCLmyAsrDAtPDAt/EAqLHAsLOAgtL1ASRBvsMgq0C/rwCm8ICxsMCyccCm8sCzM0CAA==
 
-  ​
-
 - 智战（无限疲劳护甲战）
+
+  版本：冰封王座（狂野）
 
   卡组详情：
 

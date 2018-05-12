@@ -1,8 +1,8 @@
-# 标准模式圣骑士卡组
+# 天梯模式圣骑士卡组
 
 - 奶骑
 
-  版本：安戈洛
+  版本：安戈洛（狂野）
 
   卡组详情：
 
@@ -17,7 +17,7 @@
 
 - 中速鱼人骑
 
-  版本：安戈洛
+  版本：安戈洛（狂野）
 
   卡组详情：
 
@@ -29,7 +29,7 @@
 
 - 快速鱼人骑
 
-  版本：安戈洛
+  版本：安戈洛（狂野）
 
   卡组详情：
 
@@ -38,5 +38,17 @@
   卡组代码：
 
   AAECAZ8FCKcF+gbbCtO8AuO+ArnBAuTCAojHAgvFA9sD3APjBc8GrwenCNOqArPBAp3CArHCAgA=
+
+  ++++++++++++更新分割线++++++++++++
+
+  版本：狗头人（狂野）
+
+  卡组详情：
+
+  ![murloc_paladin_kobold](screenshot/murloc_paladin_kobold.png)
+
+  卡组代码：
+
+  AAEBAaToAgSvBK8HucEC1uUCDcUD2wOnBfIFpwixCNOqAtO8ArPBAp3CArHCAuPLAvjSAgA=
 
 ​	
