@@ -30,3 +30,11 @@
 
 ![paladin_9_4_2](paladin_9_4_2.png)
 
+------
+
+### 6月11日 孙权制衡时空猎
+
+![hunter_6_11_1](hunter_6_11_1.png)
+
+![hunter_6_11_2](hunter_6_11_2.png)
+
