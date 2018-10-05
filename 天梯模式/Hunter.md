@@ -35,3 +35,15 @@
   卡组代码：
 
   AAEBAR8CuwOvBA6oArUD8gXZB+sH/gzquwKfwgKvwgKOwwLXzQLd0gLh4wKL5QIA
+
+- 奇数猎
+
+  版本：女巫森林
+
+  卡组详情：
+
+  ![odd_hunter_witch](screenshot/odd_hunter_witch.png)
+
+  卡组代码：
+
+  AAECAR8IjQGiAq8ElwjbCZ/CAovlAp74AguhAqgCtQPUBe0G/gyXwQLdwgKVzgLh4wLl7wIA

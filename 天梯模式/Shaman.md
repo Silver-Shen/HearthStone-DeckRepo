@@ -25,7 +25,7 @@
 
   +++++++++++++++++++更新分割线+++++++++++++++++++++
 
-  版本：冰封王座：
+  版本：冰封王座（狂野）
 
   卡组详情：
 
@@ -35,4 +35,27 @@
 
   AAECAfe5AgSRvAL5vwKbwgLrzwINgQTlB/AHkwn6qgL7qgKgtgKHvALRvAL2vQKRwQLrwgKbywIA
 
-  
+
+- 战吼萨
+
+  版本：女巫森林
+
+  卡组详情：
+
+  ![battlecry_shaman_witch](screenshot/battlecry_shaman_witch.png)
+
+  卡组代码：
+
+  AAECAfe5Agb1BO0Fk8ECyccCq+cC7/cCDIoB+wGBBP4FsgbHwQLKwwKbywLz5wLg6gKe8ALv8QIA
+
+- 偶数萨
+
+  版本：女巫森林（狂野）
+
+  卡组详情：
+
+  ![even_shaman_witch](screenshot/even_shaman_witch.png)
+
+  卡组代码：
+
+  AAEBAfe5Aggz8gXZB5AQtRSUvQLCzgLN9AIL0wHwB9YPshT3qgL7qgKgtgKHvALRvAL2vQKU7wIA

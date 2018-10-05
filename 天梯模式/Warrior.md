@@ -14,7 +14,7 @@
 
 - 防战
 
-  版本：安戈洛
+  版本：安戈洛（狂野）
 
   卡组详情：
 
@@ -48,7 +48,7 @@
 
   AAECAQcIkAOyCLmyAsrDAtPDAt/EAqLHAsLOAgtL1ASRBvsMgq0C/rwCm8ICxsMCyccCm8sCzM0CAA==
 
-- 智战（无限疲劳护甲战）
+- 无限战
 
   版本：冰封王座（狂野）
 
@@ -59,4 +59,28 @@
   卡组代码：
 
   AAECAQcGS+0F6awC38QCoM4Cn9MCDJAD1AT8BJEG+Af/B7II+wzGwwLMzQKOzgLx0wIA
+
+- 招募战
+
+  版本：女巫森林
+
+  卡组详情：
+
+  ![recruit_warrior_witch](screenshot/recruit_warrior_witch.png)
+
+  卡组代码：
+
+  AAECAQcKS9ICogm5wwKGzQLCzgL2zwKf0wL95wLq6gIKogSRBv8HsgjMzQKOzgLx0wLK5wLq5wKb8wIA
+
+- 奇数战
+
+  版本：砰砰计划
+
+  卡组详情：
+
+  ![odd_warrior_boomsday](screenshot/odd_warrior_boomsday.png)
+
+  卡组代码：
+
+  AAECAQcG08UCz8cCmu4CkvgCnvgCoIADDEuiAqIE3gX/B5vCAqLHAsrnAuL4AoP7Ao77Ap77AgA=
 

@@ -27,7 +27,7 @@
   AAECAZ8FCtIE8gX0BfoG2wrmrgK5sgK5wQKIxwLJxwIK2wPcA88GpwiPCdOqArPBApvCAp3CArHCAgA=
 
 
-- 快速鱼人骑
+- 鱼人骑
 
   版本：安戈洛（狂野）
 
@@ -50,5 +50,17 @@
   卡组代码：
 
   AAEBAaToAgSvBK8HucEC1uUCDcUD2wOnBfIFpwixCNOqAtO8ArPBAp3CArHCAuPLAvjSAgA=
+
+- 奇数骑
+
+  版本：女巫森林
+
+  卡组详情：
+
+  ![odd_paladin_witch](screenshot/odd_paladin_witch.png)
+
+  卡组代码：
+
+  AAECAaToAgSiAvEFlc4CnvgCDUanBfUF+QqbwgLrwgKDxwK4xwLjywL70wLR4QLW5QK15gIA
 
 ​	

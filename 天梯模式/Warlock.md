@@ -38,6 +38,18 @@
 
   AAEBAcn1AgTyBcQIl9MCnOICDTDVA/cEzgfCCLSsAry2Ase7Asm7ApvLAvfNAvLQAtHhAgA=
 
+  ++++++++++++更新分割线++++++++++++
+
+  版本：砰砰计划
+
+  卡组详情：
+
+  ![heal_warlock_boomsday](screenshot/heal_warlock_boomsday.png)
+
+  卡组代码：
+
+  AAECAcn1AgiEAa8E9wTeBfMF980CnOICj4IDCzDOB8IIm8sCn84C8tAC0eECh+gC7/EC9PcC0/gCAA==
+
 - 魔块术
 
   版本：狗头人（狂野）
@@ -49,3 +61,4 @@
   卡组代码：
 
   AAEBAcn1AgiKAZMEigfECOCsAsrDApfTAtvpAgv3BPIFtgfexALnywLy0AL40AKI0gKL4QL85QLo5wIA
+

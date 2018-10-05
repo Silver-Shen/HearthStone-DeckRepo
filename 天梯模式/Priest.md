@@ -63,3 +63,15 @@
   卡组代码：
 
   AAEBAZ/HAgaiCairAoW4AsLOAujQApDTAgylCdMK1wqhrAK3uwLovwLqvwLRwQLlzALmzAK0zgLj6QIA
+
+- 克苏恩牧
+
+  版本：砰砰计划
+
+  卡组详情：
+
+  ![cthun_priest_boomsday](screenshot/cthun_priest_boomsday.png)
+
+  卡组代码：
+
+  AAECAZ/HAgjtBaUJ0gr7DJ3HAtz1AvH7AoiCAwv7AZcC5QT2B/IM0cEC2MECns4C8M8C6NACvfMCAA==

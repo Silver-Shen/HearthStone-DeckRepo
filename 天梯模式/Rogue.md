@@ -37,3 +37,15 @@
   卡组代码：
 
   AAEBAYO6AgLzEYUXDooBtAHEAe0CzQO9BJsFiAf4B90Ihgn+DfUPgBIA
+
+- 奇数贼
+
+  版本：女巫森林
+
+  卡组详情：
+
+  ![odd_rogue_witch](screenshot/odd_rogue_witch.png)
+
+  卡组代码：
+
+  AAECAYO6AgaiAssDrwSvwgLKywKe+AIMjAKbBdQF9QXdCIHCAp/CAuvCAsrDAtHhAovlAqbvAgA=

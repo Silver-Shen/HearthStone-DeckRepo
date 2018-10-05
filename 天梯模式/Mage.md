@@ -41,3 +41,14 @@
 
   AAEBAf0EBE24CNYRlscCDYoBwAH7AZwCyQOrBMsE5gTtBJYF9w2YxALaxQIA
 
+- 控制法
+
+  版本：女巫森林
+
+  卡组详情：
+
+  ![control_mage_witch](screenshot/control_mage_witch.png)
+
+  卡组代码：
+
+  AAECAf0ECooB0AK/CPsM08UCm9MCo+sCmu4Ct/ECxfMCCk3JA+wHm8ICysMClscC1eEC1+ECluQCvuwCAA==
