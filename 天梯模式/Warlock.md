@@ -62,3 +62,16 @@
 
   AAEBAcn1AgiKAZMEigfECOCsAsrDApfTAtvpAgv3BPIFtgfexALnywLy0AL40AKI0gKL4QL85QLo5wIA
 
+- 灭霸术
+
+  版本：拉斯塔哈大乱斗
+
+  卡组详情：
+
+  ![thanos_warlock_rastakhan](screenshot/thanos_warlock_rastakhan.png)
+
+  卡组代码：
+
+  AAECAcn1AgyiAtsGtgfMCPMMysMC08UCrs0CoM4Cl9MCnPgCoIADCZIHm8ICkMcC58sC980C2OUC6OcCxfMC1IYDAA==
+
+- 快乐术

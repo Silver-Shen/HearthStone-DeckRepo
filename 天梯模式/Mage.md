@@ -52,3 +52,27 @@
   卡组代码：
 
   AAECAf0ECooB0AK/CPsM08UCm9MCo+sCmu4Ct/ECxfMCCk3JA+wHm8ICysMClscC1eEC1+ECluQCvuwCAA==
+
+- 奇数控制法
+
+  版本：大乱斗
+
+  卡组详情：
+
+  ![odd_control_mage_rastakhan](screenshot/odd_control_mage_rastakhan.png)
+
+  卡组代码：
+
+  AAECAf0ECNAC08UCm9MCluQCw+oCnvgCoIADqIcDC+wH68ICysMCyMcC1+ECt/ECzvICw/gCvfoCpIcDzYkDAA==
+
+- 奇数快攻法
+
+  版本：大乱斗
+
+  卡组详情：
+
+  ![odd_quick_mage_rastakhan](screenshot/odd_quick_mage_rastakhan.png)
+
+  卡组代码：
+
+  AAECAf0EBq8EyssC7vYCnvgCqIcDtogDDJ4BtATsBevCAo/TAtHhAovlAvvsAs/yAr36AqSHA82JAwA=

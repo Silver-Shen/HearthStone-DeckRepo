@@ -82,3 +82,15 @@
   卡组代码：
 
   AAECAbSKAwKZ0wKE5gIOQF/9AvcD5gWFCOQIoM0Ch84CmNICntIC29MC1+8C4vgCAA==
+
+- 机克德
+
+  版本：砰砰计划
+
+  卡组详情：
+
+  ![cthun_druid_boomsday](screenshot/cthun_druid_boomsday.png)
+
+  卡组代码：
+
+  AAECAbSKAwRWh84CmdMC8fsCDUBf6QH+AcQG5AigzQKU0gKY0gKe0gLb0wKE5gK/8gIA
